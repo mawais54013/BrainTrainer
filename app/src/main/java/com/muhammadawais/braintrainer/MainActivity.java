@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     public void start(View view)
     {
         goButton.setVisibility(View.INVISIBLE);
+
     }
 
     @Override
